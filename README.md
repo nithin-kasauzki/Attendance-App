@@ -1,4 +1,4 @@
-# attendance_tracker
+# Attendance-App-Client
 
 A new Flutter project.
 
